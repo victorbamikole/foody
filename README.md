@@ -22,6 +22,10 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 
 
 
-<img src="https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8" alt="Image Description" width="300" height="100%">
+<img src="https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8" alt="Image Description" width="300" height="100%">  <img src="https://github.com/victorbamikole/foody/assets/86411135/8c03b65b-979f-4a89-b549-db318d022b5d" alt="Image Description" width="300" height="100%"> <img src="https://github.com/victorbamikole/foody/assets/86411135/6419418b-19e7-4ce5-92a3-cf5f2b705dba" alt="Image Description" width="300" height="100%"> <img src="https://github.com/victorbamikole/foody/assets/86411135/05b9470e-3b8e-4d73-827e-2db5289bc7bf" alt="Image Description" width="300" height="100%"> <img src="https://github.com/victorbamikole/foody/assets/86411135/aac20b1f-12fb-4268-b2e1-e003b6da126d" alt="Image Description" width="300" height="100%"> 
+
+
+
+
 
 
