@@ -20,5 +20,7 @@ User-Friendly Interface: Enjoy a clean and intuitive interface designed for effo
 # Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
 
+<img src="![Simulator Screen Shot - iPhone 14 Pro - 2024-03-24 at 02 27 32](https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8)
+" alt="Image Description" width="100" height="100">
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2024-03-24 at 02 27 32](https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8)
