@@ -16,3 +16,6 @@ User-Friendly Interface: Enjoy a clean and intuitive interface designed for effo
 - AsyncStorage
 - Tailwind css
 
+
+# Contributing
+Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
