@@ -7,3 +7,12 @@ Search Functionality: Easily search for recipes by name, ingredient, or category
 Recipe Details: Get comprehensive details for each recipe including ingredients, instructions, and nutritional information.
 Random Meal Generator: Feeling adventurous? Let Foody surprise you with a random meal suggestion.
 User-Friendly Interface: Enjoy a clean and intuitive interface designed for effortless navigation and a seamless user experience.
+
+# Technologies Used
+- React Native
+- Expo
+- MealDB API
+- eact Native Reanimated
+- AsyncStorage
+- Tailwind css
+
