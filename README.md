@@ -22,6 +22,6 @@ Contributions are welcome! If you have any suggestions, enhancements, or bug fix
 
 
 
-<img src="https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8" alt="Image Description" width="300" height="100">
+<img src="https://github.com/victorbamikole/foody/assets/86411135/467308a7-f3b5-4570-ae29-af17417010d8" alt="Image Description" width="300" height="100%">
 
 
