@@ -15,7 +15,7 @@ User-Friendly Interface: Enjoy a clean and intuitive interface designed for effo
 - eact Native Reanimated
 - AsyncStorage
 - Tailwind css
-
+- Axios
 
 # Contributing
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, feel free to open an issue or create a pull request.
